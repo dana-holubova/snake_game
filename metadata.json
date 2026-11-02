@@ -1,0 +1,6 @@
+{
+  "name": "Ophidian — Precision Arcade Snake",
+  "description": "A tactile 2D arcade Snake game featuring four distinct arena modes, 60fps interpolated canvas rendering, turn input buffering, Web Audio sound synthesis, and persistent local high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
